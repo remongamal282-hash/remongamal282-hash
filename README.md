@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=230&section=header&text=Everyday%20is%20a%20good%20day&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=230&section=header&text=Everyday%20is%20a%20good%20day%20to%20build%20something%20great.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h1 align="center">Remon Gamal 👋</h1>
@@ -64,8 +64,9 @@ I also have solid experience with **CMS platforms**, **UI/UX design**, **video e
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,wordpress,git,github,figma,photoshop,illustrator,premiere,vscode" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Everyday%20is%20a%20good%20day%20to%20build%20something%20great.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 </p>
+
 
 ---
 
@@ -81,10 +82,10 @@ I also have solid experience with **CMS platforms**, **UI/UX design**, **video e
 ## 🛠️ Current Focus
 
 - Building scalable **Next.js applications**
-- Improving performance and SEO
-- Creating reusable UI components
-- Customizing and integrating CMS solutions
-- Maintaining consistency and long-term growth 📈
+- Performance & SEO optimization
+- Reusable UI components
+- CMS customization and integration
+- Consistent long-term growth 📈
 
 ---
 
