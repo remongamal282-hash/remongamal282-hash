@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Remon Gamal 👋</h1>
 <h3 align="center">
-Frontend Developer ⚛️ | React & Next.js Specialist 🚀 | UI Lover 🎨
+Frontend Developer ⚛️ | React & Next.js 🚀 | CMS & Creative Tech 🎨📈
 </h3>
 
 <p align="center">
@@ -28,8 +28,13 @@ Frontend Developer ⚛️ | React & Next.js Specialist 🚀 | UI Lover 🎨
 ```ts
 class RemonGamal {
   role = "Frontend Developer";
-  stack = ["React", "Next.js", "TypeScript"];
-  tools = ["HTML", "CSS", "JavaScript", "Figma"];
-  focus = "Performance, Clean Code, UI/UX";
-  mindset = "Build things that feel good to use";
+  mainStack = ["React", "Next.js", "TypeScript"];
+  webCore = ["HTML", "CSS", "JavaScript"];
+  cms = ["WordPress", "Joomla", "Drupal"];
+  designTools = ["Figma", "Photoshop", "Illustrator"];
+  videoTools = ["Premiere Pro"];
+  devTools = ["Git", "GitHub"];
+  extraExperience = ["Forex Trading"];
+  focus = "Clean Code, Performance, UI/UX";
+  mindset = "Think logically, design creatively, execute professionally";
 }
