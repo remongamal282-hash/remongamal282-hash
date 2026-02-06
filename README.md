@@ -1,16 +1,20 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Everyday%20is%20a%20good%20day&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
 <h1 align="center">Hi, I'm Remon Gamal 👋</h1>
 <h3 align="center">
 Frontend Developer ⚛️ | React & Next.js Specialist 🚀 | UI Lover 🎨
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/Remon%20Gamal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://YOUR_PORTFOLIO">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -26,6 +30,6 @@ class RemonGamal {
   role = "Frontend Developer";
   stack = ["React", "Next.js", "TypeScript"];
   tools = ["HTML", "CSS", "JavaScript", "Figma"];
-  focus = "Building fast, scalable & clean UI";
-  mindset = "Clean Code + Great UX";
+  focus = "Performance, Clean Code, UI/UX";
+  mindset = "Build things that feel good to use";
 }
